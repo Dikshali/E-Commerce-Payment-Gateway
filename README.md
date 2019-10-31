@@ -1,6 +1,9 @@
 # Profile Application
 
-This application lets you perform operation like signin, signup, view profile and edit profile. All these operations are performed in  an Android app accessed through custom built api's.
+[![license](https://img.shields.io/github/license/Dikshali/E-Commerce-Payment-Gateway?style=flat-square)](https://github.com/Dikshali/E-Commerce-Payment-Gateway/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Dikshali/E-Commerce-Payment-Gateway?style=flat-square)](https://github.com/Dikshali/E-Commerce-Payment-Gateway/issues)
+
+Its a shopping cart application which lets uer perform operation like signin, signup, view profile, edit profile, select the items they would like to purchase, and be able to pay for their order. 
 
 ## Getting Started
 
@@ -11,12 +14,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
-
-```
-Android Studio
-Node.js
-Java
-```
+* Braintree - Credit Payment System
+* Android Studio
+* Node.js
+* Java
 
 ### Installing
 
