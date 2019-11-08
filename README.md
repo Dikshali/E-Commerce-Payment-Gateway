@@ -1,4 +1,4 @@
-# Profile Application
+# E-Commerce Payment Gateway
 
 [![license](https://img.shields.io/github/license/Dikshali/E-Commerce-Payment-Gateway?style=flat-square)](https://github.com/Dikshali/E-Commerce-Payment-Gateway/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Dikshali/E-Commerce-Payment-Gateway?style=flat-square)](https://github.com/Dikshali/E-Commerce-Payment-Gateway/issues)
