@@ -27,8 +27,6 @@ There are two folders to this project
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
 ```
 Clone the repo and open ProfileApplication folder inside android studio.
 ```
