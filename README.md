@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/github/license/Dikshali/E-Commerce-Payment-Gateway?style=flat-square)](https://github.com/Dikshali/E-Commerce-Payment-Gateway/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Dikshali/E-Commerce-Payment-Gateway?style=flat-square)](https://github.com/Dikshali/E-Commerce-Payment-Gateway/issues)
 
-Its a shopping cart application which lets uer perform operation like signin, signup, view profile, edit profile, select the items they would like to purchase, and be able to pay for their order. 
+Its a shopping cart application which lets user perform operation like signin, signup, view profile, edit profile, select the items they would like to purchase, and be able to pay for their order. 
 
 ## Getting Started
 
